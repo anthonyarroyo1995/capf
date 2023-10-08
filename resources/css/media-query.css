@@ -158,8 +158,8 @@
 		margin-bottom:10px;
 	}
 	.work-section {
-		background-image:-webkit-linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 0)),url(img/fondo-azul.jpg);
-		background-image:linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 0)),url(img/fondo-azul.jpg);
+		background-image:-webkit-linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 0)),url(img/fondo-azul.png);
+		background-image:linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 0)),url(img/fondo-azul.png);
 		background-size:cover;
 		background-attachment:fixed;
 		text-align:center;
